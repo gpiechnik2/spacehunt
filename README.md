@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Spacehunt - Hunt space for your new product](/public/spacehunt-image-banner.jpg)
 
-## Getting Started
+[![Twitter: gpiechnik2](https://img.shields.io/twitter/follow/gpiechnik2.svg?style=social)](https://twitter.com/gpiechnik2)
 
-First, run the development server:
+# Spacehunt
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[Spacehunt](https://spacehunt.io) is a comprehensive, open-source list designed to help you find the perfect spots to promote your products, startups, or businesses. It simplifies the search for valuable promotional channels by offering:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🚀 **Discover promotional spaces** for your product, startup, or company. Spacehunt guides you to the right platforms and communities, making it easier to get your offering in front of the right audience.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🌍 **Free and open-source**, supported by a vibrant community. The entire project is built with contributions from people like you, ensuring a wide range of options and up-to-date information.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- 🔗 **Domain authority indicators** for backlinks. Understand the potential impact of your backlinks with included domain authority metrics, helping you to prioritize high-quality promotional opportunities.
 
-## Learn More
+- 🤝 **Contribute your discoveries**. Found a great place not yet on Spacehunt? Your contributions are welcome! Help the community by sharing new places and resources, enriching the pool of promotional channels for everyone.
 
-To learn more about Next.js, take a look at the following resources:
+Spacehunt empowers you to amplify your visibility across the web, leveraging the collective knowledge of a community-driven platform.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Technologies used
 
-## Deploy on Vercel
+This project leverages the power of several key technologies in the modern web development ecosystem, acting as a cohesive framework to deliver high-quality, scalable, and performant web applications:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. [**Next.js:**](https://nextjs.org) An advanced React framework that provides features like server-side rendering, static site generation, and file-based routing, making it easier to build fast and scalable web applications.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+2. [**React:**](https://reactjs.org) A JavaScript library for building user interfaces, known for its declarative approach, component-based architecture, and efficient updates to the UI through a virtual DOM.
+
+3. [**Tailwind CSS:**](https://tailwindcss.com) A utility-first CSS framework packed with classes like `flex`, `pt-4`, `text-center`, and `rotate-90` that can be composed to build any design, directly in your markup. Tailwind removes the hassle of writing CSS from scratch by providing a comprehensive and customizable set of utilities out of the box.
+
+4. [**shadcn:**](https://ui.shadcn.com) A design system and component library that offers a set of beautifully designed, fully responsive UI components built on top of React and Tailwind CSS. It aims to streamline the UI development process, ensuring consistency and speeding up the prototyping and design phase.
+
+Together, these tools form a robust foundation for developing modern web applications, focusing on ease of use, performance, and design flexibility.
+
+## Run locally
+
+You can run the project locally. Just execute the command npm run dev. 🚀
+
+## Have an idea? Notice a bug?
+
+We're eager to receive your feedback! You're welcome to submit an issue through our [GitHub issues page](https://github.com/gpiechnik2/spacehunt/issues). For inquiries that are more personal in nature, feel free to reach out via [my Twitter DMs](https://twitter.com/gpiechnik2), which are always open for you.

@@ -101,7 +101,7 @@ export function ContributeSheet() {
                         If you want to add your own or someone else's page, add it via a
                         pull request on&nbsp;&#8203;
                         <a
-                            href="https://github.com"
+                            href="https://github.com/gpiechnik2/spacehunt"
                             className="font-medium text-primary underline underline-offset-4"
                         >
                             Github

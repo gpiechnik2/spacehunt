@@ -18,7 +18,7 @@ export function Footer() {
                     </a>
                     . The code is available on&nbsp;&#8203;
                     <a
-                        href="#"
+                        href="https://github.com/gpiechnik2/spacehunt"
                         className="font-medium text-muted-foreground underline underline-offset-4"
                     >
                         GitHub
