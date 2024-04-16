@@ -31,6 +31,10 @@ This project leverages the power of several key technologies in the modern web d
 
 Together, these tools form a robust foundation for developing modern web applications, focusing on ease of use, performance, and design flexibility.
 
+## Getting Started
+
+The entire list is available in the data directory. If you want to use the UI, either build the project locally or use the website https://spacehunt.io/
+
 ## Run locally
 
 You can run the project locally. Just execute the command npm run dev. 🚀

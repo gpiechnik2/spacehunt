@@ -14,14 +14,13 @@ export function MainNav() {
     return (
         <>
             <div className="hidden md:flex h-[52px] items-center justify-center">
-                <Link href="/" className="inline-flex items-center py-1 text-sm font-medium mr-8">
+                <Link href="/" className="inline-flex items-center py-1 text-sm font-medium mr-14">
                     <div className="dark:hidden"><Image src="/spacehunt-logo-black-1.png" height={16} width={16} alt="Spacehunt Logo black" /></div>
                     <div className="hidden dark:block"><Image src="/spacehunt-logo-white-1.png" height={16} width={16} alt="Spacehunt Logo white" /></div>
                     <div data-orientation="vertical" role="none" className="shrink-0 bg-border w-[1px] mx-2 h-4"></div>
                     <span className="inline">spacehunt.io</span>
                 </Link>
-                <Separator orientation="vertical" />
-                <NavigationMenu className="pl-4">
+                <NavigationMenu className="pl-10">
                     <NavigationMenuList>
                         <NavigationMenuItem>
                             <NavigationMenuLink className={navigationMenuTriggerStyle()}>

@@ -14,7 +14,7 @@ export function Footer() {
                         href="https://twitter.com/gpiechnik2"
                         className="font-medium text-muted-foreground underline underline-offset-4"
                     >
-                        gpiechnik
+                        @gpiechnik
                     </a>
                     . The code is available on&nbsp;&#8203;
                     <a

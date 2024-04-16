@@ -1,0 +1,1801 @@
+{
+    "pages": [
+        {
+            "name": "Micro Launch",
+            "description": "A modern launch platform for early products: get feedback, traction and first customers over a month. Both ideas and product are scored separately. Your products get eventually roasted or boosted.",
+            "logoUrl": "/logos/microlaunch.jpg",
+            "previewUrl": "/preview/microlaunch.jpg",
+            "domainAuthority": 10,
+            "productType": "free",
+            "link": "https://microlaunch.net",
+            "categories": [
+                "Technology",
+                "Marketing Tools",
+                "AI Tools",
+                "Product Discovery"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "XGen Tools",
+            "description": "Tools directory.",
+            "logoUrl": "/logos/xgen.jpg",
+            "previewUrl": "/preview/xgen.jpg",
+            "domainAuthority": 1,
+            "productType": "paid",
+            "link": "https://xgen.tools/",
+            "categories": [
+                "Technology",
+                "News",
+                "AI Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "AI Pediahub",
+            "description": "Large AI tools direcotry, updated daily.",
+            "logoUrl": "/logos/aipedia.jpg",
+            "previewUrl": "/preview/aipedia.jpg",
+            "domainAuthority": 1,
+            "productType": "free",
+            "link": "https://aipediahub.com/",
+            "categories": [
+                "Education",
+                "Technology",
+                "News",
+                "Professional Networking",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Futurepedia",
+            "description": "An AI tools listing platform.",
+            "logoUrl": "/logos/futurepedia.jpg",
+            "previewUrl": "/preview/futurepedia.jpg",
+            "domainAuthority": 69,
+            "productType": "paid",
+            "link": "https://www.futurepedia.io/",
+            "categories": [
+                "Technology",
+                "Innovation",
+                "Research",
+                "Trends Analysis",
+                "Education"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Sidebar",
+            "description": "Sidebar.io aims to provide designers and developers with the most valuable articles, tools, and resources.",
+            "logoUrl": "/logos/sidebar.jpg",
+            "previewUrl": "/preview/sidebar.jpg",
+            "domainAuthority": 43,
+            "productType": "free",
+            "link": "https://sidebar.io",
+            "categories": [
+                "Design",
+                "Development",
+                "Resources",
+                "Education",
+                "Community"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Active Search",
+            "description": "Active Search Results (ASR) is an independent Internet Search Engine using a proprietary page ranking technology with Millions of popular Web sites indexed.",
+            "logoUrl": "/logos/activesearch.jpg",
+            "previewUrl": "/preview/activesearch.jpg",
+            "domainAuthority": 38,
+            "productType": "free",
+            "link": "https://activesearchresults.com",
+            "categories": [
+                "Technology",
+                "Search Engine",
+                "Innovation",
+                "Information Retrieval"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "The startup inc",
+            "description": "Startup listing directory on web",
+            "logoUrl": "/logos/thestartupinc.jpg",
+            "previewUrl": "/preview/thestartupinc.jpg",
+            "domainAuthority": 26,
+            "productType": "free",
+            "link": "https://thestartupinc.com",
+            "categories": [
+                "Startups",
+                "Entrepreneurship",
+                "Networking"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Alternative",
+            "description": "Alternative.me is a platform for optimizing connections between a variety of software and product alternatives.",
+            "logoUrl": "/logos/alternative.jpg",
+            "previewUrl": "/preview/alternative.jpg",
+            "domainAuthority": 73,
+            "productType": "free",
+            "link": "https://alternative.me/",
+            "categories": [
+                "Software",
+                "Tools",
+                "Technology",
+                "Resources"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "DevHunt",
+            "description": "A specialized platform for developers to discover the latest tools, libraries, and resources. It aims to keep the developer community ahead with the newest trends and technologies.",
+            "logoUrl": "/logos/devhunt.jpg",
+            "previewUrl": "/preview/devhunt.jpg",
+            "domainAuthority": 51,
+            "productType": "free",
+            "link": "https://devhunt.org/",
+            "categories": [
+                "Development",
+                "Technology",
+                "Resources",
+                "Community",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "1000 Tools",
+            "description": "An exclusive list of the 1000 best tools. Carefully vetted and maintained by humans.",
+            "logoUrl": "/logos/1000tools.jpg",
+            "previewUrl": "/preview/1000tools.jpg",
+            "domainAuthority": 25,
+            "productType": "paid",
+            "link": "https://1000.tools/",
+            "categories": [
+                "Startups",
+                "Product Discover",
+                "Platforms",
+                "Community"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Launched",
+            "description": "Launched! is a community where makers showcase their startup/product and get feedback from early adopters.",
+            "logoUrl": "/logos/launched.jpg",
+            "previewUrl": "/preview/launched.jpg",
+            "domainAuthority": 21,
+            "productType": "free",
+            "link": "https://launched.io",
+            "categories": [
+                "Startups",
+                "Technology",
+                "Community",
+                "Marketing"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Startup Base",
+            "description": " StartupBase is a community of makers and early adopters to share & discuss the latest products and ideas. It is a place to discover and get early access to exciting new startups.",
+            "logoUrl": "/logos/startupbase.jpg",
+            "previewUrl": "/preview/startupbase.jpg",
+            "domainAuthority": 20,
+            "productType": "free",
+            "link": "https://startupbase.io",
+            "categories": [
+                "Startups",
+                "Resources",
+                "Networking",
+                "Growth"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Openfuture AI",
+            "description": "Ai tools directory.",
+            "logoUrl": "/logos/openfutureai.jpg",
+            "previewUrl": "/preview/openfutureai.jpg",
+            "domainAuthority": 28,
+            "productType": "free",
+            "link": "https://openfuture.ai/",
+            "categories": [
+                "AI",
+                "Open Source",
+                "Development",
+                "Community",
+                "Technology"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Betalist",
+            "description": "BetaList helps you find early-stage startups before they make it big.",
+            "logoUrl": "/logos/betalist.jpg",
+            "previewUrl": "/preview/betalist.jpg",
+            "domainAuthority": 73,
+            "productType": "both",
+            "link": "https://betalist.com/",
+            "categories": [
+                "Early-Stage Startups",
+                "Community Engagement",
+                "Feedback Collection",
+                "AI Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Crozdesk",
+            "description": "A software discovery platform that helps businesses find and compare software solutions across various categories, aiding in the decision-making process with user reviews and expert insights.",
+            "logoUrl": "/logos/crozdesk.jpg",
+            "previewUrl": "/preview/crozdesk.jpg",
+            "domainAuthority": 75,
+            "productType": "free",
+            "link": "https://crozdesk.com/",
+            "categories": [
+                "Software Discovery",
+                "Comparison Tools",
+                "Expert Reviews"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Digg",
+            "description": "A news aggregator with a curated front page, aiming to select stories specifically for the Internet audience such as science, trending political issues, and viral Internet issues.",
+            "logoUrl": "/logos/digg.jpg",
+            "previewUrl": "/preview/digg.jpg",
+            "domainAuthority": 94,
+            "productType": "paid",
+            "link": "https://digg.com",
+            "categories": [
+                "News",
+                "Trends",
+                "Entertainment",
+                "Technology"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Tool pilot",
+            "description": "A curated collection of the best AI tools and software for businesses and individuals alike, aiming to enhance productivity and innovation through artificial intelligence.",
+            "logoUrl": "/logos/toolpilot.jpg",
+            "previewUrl": "/preview/toolpilot.jpg",
+            "domainAuthority": 40,
+            "productType": "both",
+            "link": "https://www.toolpilot.ai/",
+            "categories": [
+                "AI",
+                "Productivity",
+                "Technology",
+                "Resources",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Tech Pluto",
+            "description": "A digital platform that covers the latest in technology, startups, and digital trends, offering in-depth articles, reviews, and insights into the tech world.",
+            "logoUrl": "/logos/techpluto.jpg",
+            "previewUrl": "/preview/techpluto.jpg",
+            "domainAuthority": 46,
+            "productType": "free",
+            "link": "https://techpluto.com",
+            "categories": [
+                "Technology",
+                "Startups",
+                "News",
+                "Reviews",
+                "Trends"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Makermove",
+            "description": "Products, startups, podcasts, books & tools list.",
+            "logoUrl": "/logos/makermove.jpg",
+            "previewUrl": "/preview/makermove.jpg",
+            "domainAuthority": 6,
+            "productType": "paid",
+            "link": "https://makermove.com",
+            "categories": [
+                "Entrepreneurship",
+                "Design",
+                "Resources",
+                "Community",
+                "Startups",
+                "Podcast"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Startupinspire",
+            "description": "StartupInspire is a inspiration gallery for startup's with a high quality of culture from around the world.",
+            "logoUrl": "/logos/startupinspire.jpg",
+            "previewUrl": "/preview/startupinspire.jpg",
+            "domainAuthority": 25,
+            "productType": "free",
+            "link": "https://startupinspire.com/",
+            "categories": [
+                "Startups",
+                "Inspiration",
+                "Community",
+                "Innovation",
+                "Networking"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Robin Good's T5",
+            "description": "Free or quasi-free tools for communication professionals hand-picked and tested by Robin-Good.",
+            "logoUrl": "/logos/robingood.jpg",
+            "previewUrl": "/preview/robingood.jpg",
+            "domainAuthority": 31,
+            "productType": "free",
+            "link": "https://tools.robingood.com",
+            "categories": [
+                "Content Curation",
+                "Marketing",
+                "Resources",
+                "Professional Development"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "AI Scout",
+            "description": "A platform designed to identify and showcase emerging AI talents and innovations, facilitating connections between AI experts, companies, and investors.",
+            "logoUrl": "/logos/aiscout.jpg",
+            "previewUrl": "/preview/aiscout.jpg",
+            "domainAuthority": 44,
+            "productType": "paid",
+            "link": "https://aiscout.net/",
+            "categories": [
+                "AI",
+                "Talent Scouting",
+                "Networking",
+                "Innovation",
+                "Technology"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Startup Buffer",
+            "description": "An online platform for promoting and discovering new startups, offering marketing and visibility tools to help startups reach a broader audience.",
+            "logoUrl": "/logos/startupbuffer.jpg",
+            "previewUrl": "/preview/startupbuffer.jpg",
+            "domainAuthority": 29,
+            "productType": "free",
+            "link": "https://startupbuffer.com",
+            "categories": [
+                "Startups",
+                "Marketing",
+                "Visibility",
+                "Resources",
+                "Community"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Tech EU",
+            "description": "Focusing on the European tech market, this platform provides news, analysis, and insights into Europe's startup and technology sector, including funding rounds and tech trends.",
+            "logoUrl": "/logos/techeu.jpg",
+            "previewUrl": "/preview/techeu.jpg",
+            "domainAuthority": 64,
+            "productType": "free",
+            "link": "https://tech.eu",
+            "categories": [
+                "Technology",
+                "Startups",
+                "Europe",
+                "News"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Aitools",
+            "description": "An all-encompassing resource for AI tools, libraries, and frameworks, catering to developers and businesses looking to integrate AI into their projects.",
+            "logoUrl": "/logos/aitoolsfyi.jpg",
+            "previewUrl": "/preview/aitoolsfyi.jpg",
+            "domainAuthority": 1,
+            "productType": "paid",
+            "link": "https://aitools.fyi/",
+            "categories": [
+                "AI",
+                "Development",
+                "Resources",
+                "Technology",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "AppRater",
+            "description": "A platform dedicated to discovering, rating, and reviewing apps across various platforms, helping users make informed decisions about the software they download.",
+            "logoUrl": "/logos/apprater.jpg",
+            "previewUrl": "/preview/apprater.jpg",
+            "domainAuthority": 16,
+            "productType": "both",
+            "link": "https://apprater.net",
+            "categories": [
+                "Apps",
+                "Reviews",
+                "Ratings",
+                "Technology",
+                "User Guidance"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Site Jabber",
+            "description": "A consumer review platform focusing on online businesses and websites, allowing users to share their experiences and discover trustworthy online services.",
+            "logoUrl": "/logos/sitejabber.jpg",
+            "previewUrl": "/preview/sitejabber.jpg",
+            "domainAuthority": 68,
+            "productType": "paid",
+            "link": "https://sitejabber.com",
+            "categories": [
+                "Reviews",
+                "Consumer Protection",
+                "Online Businesses",
+                "Trust",
+                "Community"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Aicyclopedia",
+            "description": "3000+ AI Tools, Prompts, and Podcasts.",
+            "logoUrl": "/logos/aicyclopedia.jpg",
+            "previewUrl": "/preview/aicyclopedia.jpg",
+            "domainAuthority": 2,
+            "productType": "free",
+            "link": "https://www.aicyclopedia.com",
+            "categories": [
+                "AI",
+                "Education",
+                "Resources",
+                "Technology",
+                "History"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Trustpilot",
+            "description": "A leading global review platform that connects businesses with their customers, offering a space for honest reviews and feedback to improve consumer trust and transparency.",
+            "logoUrl": "/logos/trustpilot.jpg",
+            "previewUrl": "/preview/trustpilot.jpg",
+            "domainAuthority": 94,
+            "productType": "free",
+            "link": "https://trustpilot.com/",
+            "categories": [
+                "Reviews",
+                "Trust",
+                "Consumer Feedback",
+                "Business Services",
+                "Transparency"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Startup Stash",
+            "description": "A comprehensive directory of tools and resources for startups and entrepreneurs.",
+            "logoUrl": "/logos/startupstash.jpg",
+            "previewUrl": "/preview/startupstash.jpg",
+            "domainAuthority": 60,
+            "productType": "free",
+            "link": "https://startupstash.com",
+            "categories": [
+                "Resources",
+                "Entrepreneurship",
+                "Tools",
+                "Startups",
+                "Guides"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "AI Wizard",
+            "description": "AI tool hub. Unveiling AI's magic with aiwizard spellbook spells, step-by-step tutorials & in-depth reviews of 879 AI tools.",
+            "logoUrl": "/logos/aiwizard.jpg",
+            "previewUrl": "/preview/aiwizard.jpg",
+            "domainAuthority": 14,
+            "productType": "paid",
+            "link": "https://www.aiwizard.ai/",
+            "categories": [
+                "AI",
+                "Education",
+                "Resources",
+                "Technology",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Bestofai",
+            "description": "A curated selection of the best AI tools, software, and applications, aiming to help users discover and utilize AI solutions effectively in various domains.",
+            "logoUrl": "/logos/bestofai.jpg",
+            "previewUrl": "/preview/bestofai.jpg",
+            "domainAuthority": 24,
+            "productType": "free",
+            "link": "https://bestofai.com/",
+            "categories": [
+                "AI",
+                "Tools",
+                "Software",
+                "Innovation",
+                "Technology"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "American Startups",
+            "description": "A platform dedicated to showcasing and supporting startups from the United States, featuring stories, resources, and networking opportunities specific to the American entrepreneurial ecosystem.",
+            "logoUrl": "/logos/americanstartups.jpg",
+            "previewUrl": "/preview/americanstartups.jpg",
+            "domainAuthority": 92,
+            "productType": "free",
+            "link": "https://americanstartups.com",
+            "categories": [
+                "Startups",
+                "American",
+                "Networking",
+                "Resources",
+                "Entrepreneurship"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Getapp",
+            "description": "An online platform that provides reviews, insights, and comparisons of software and applications for businesses, aiming to help users choose the best tools for their needs.",
+            "logoUrl": "/logos/getapp.jpg",
+            "previewUrl": "/preview/getapp.jpg",
+            "domainAuthority": 84,
+            "productType": "free",
+            "link": "https://www.getapp.com/",
+            "categories": [
+                "Software",
+                "Reviews",
+                "Business Tools",
+                "Comparison",
+                "Technology"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Inc42",
+            "description": "A leading media platform providing news, analysis, and reports on the startup ecosystem, technology, and entrepreneurship, with a focus on the Indian market.",
+            "logoUrl": "/logos/inc42.jpg",
+            "previewUrl": "/preview/inc42.jpg",
+            "domainAuthority": 62,
+            "productType": "paid",
+            "link": "https://inc42.com",
+            "categories": [
+                "News",
+                "Startups",
+                "Technology",
+                "Entrepreneurship",
+                "India"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "CrowdReviews",
+            "description": "An online platform where users can leave reviews and ratings for products and services, leveraging the power of crowd-sourced feedback to inform purchasing decisions.",
+            "logoUrl": "/logos/crowdreviews.jpg",
+            "previewUrl": "/preview/crowdreviews.jpg",
+            "domainAuthority": 71,
+            "productType": "free",
+            "link": "https://crowdreviews.com/",
+            "categories": [
+                "Reviews",
+                "Ratings",
+                "Crowdsourcing",
+                "Feedback",
+                "Consumer Insights"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "NoCodeList",
+            "description": "A resource hub dedicated to no-code and low-code platforms.",
+            "logoUrl": "/logos/nocodelist.jpg",
+            "previewUrl": "/preview/nocodelist.jpg",
+            "domainAuthority": 24,
+            "productType": "free",
+            "link": "https://nocodelist.co",
+            "categories": [
+                "No-Code",
+                "Low-Code",
+                "Resources",
+                "Tools",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Sourceforge",
+            "description": "An open-source software development and download repository, offering a vast collection of open-source tools and software projects for developers and tech enthusiasts.",
+            "logoUrl": "/logos/sourceforge.jpg",
+            "previewUrl": "/preview/sourceforge.jpg",
+            "domainAuthority": 92,
+            "productType": "free",
+            "link": "https://sourceforge.net/",
+            "categories": [
+                "Open Source",
+                "Software Development",
+                "Tools",
+                "Technology",
+                "Community"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Toolsalad",
+            "description": "A Curated Directory of 201+ Online Marketing Tools.",
+            "logoUrl": "/logos/toolsalad.jpg",
+            "previewUrl": "/preview/toolsalad.jpg",
+            "domainAuthority": 18,
+            "productType": "both",
+            "link": "https://toolsalad.com",
+            "categories": [
+                "Digital Tools",
+                "Productivity",
+                "Marketing",
+                "Creativity",
+                "Resources"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Startup Tracker",
+            "description": "Startup Tracker combines information from leading providers with data crowdsourced directly from startups to make your startup research easier than ever.",
+            "logoUrl": "/logos/startuptracker.jpg",
+            "previewUrl": "/preview/startuptracker.jpg",
+            "domainAuthority": 25,
+            "productType": "free",
+            "link": "https://startuptracker.io",
+            "categories": [
+                "Startups",
+                "Analytics",
+                "Data",
+                "Insights",
+                "Trends"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Gpte",
+            "description": "AI tools hub.",
+            "logoUrl": "/logos/gpte.jpg",
+            "previewUrl": "/preview/gpte.jpg",
+            "domainAuthority": 38,
+            "productType": "both",
+            "link": "https://gpte.ai/",
+            "categories": [
+                "Digital Marketing",
+                "SEO",
+                "Productivity",
+                "Tools",
+                "Technology"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "E27",
+            "description": "Insights, updates, and resources that let you learn more and connect with investors and startups in Southeast Asia.",
+            "logoUrl": "/logos/e27.jpg",
+            "previewUrl": "/preview/e27.jpg",
+            "domainAuthority": 43,
+            "productType": "free",
+            "link": "https://e27.co",
+            "categories": [
+                "Startup News",
+                "Technology",
+                "Entrepreneurship",
+                "Asia",
+                "Investment"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Launchingnext",
+            "description": "A showcase for the newest startups and tech innovations, offering a platform for new ventures to gain visibility and for tech enthusiasts to discover upcoming trends.",
+            "logoUrl": "/logos/launchingnext.jpg",
+            "previewUrl": "/preview/launchingnext.jpg",
+            "domainAuthority": 49,
+            "productType": "free",
+            "link": "https://www.launchingnext.com/",
+            "categories": [
+                "Startups",
+                "Innovation",
+                "Technology",
+                "Trends",
+                "Visibility"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Betabound",
+            "description": "They collect and organize a wide variety of beta testing opportunities from all over the world and present them in a structured and consistent format.",
+            "logoUrl": "/logos/betabound.jpg",
+            "previewUrl": "/preview/betabound.jpg",
+            "domainAuthority": 52,
+            "productType": "free",
+            "link": "https://betabound.com/",
+            "categories": [
+                "Beta Testing",
+                "Community",
+                "Software",
+                "Technology",
+                "Feedback"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Startup beat",
+            "description": "A news and analysis platform dedicated to covering the global startup ecosystem, offering insights, trends, and stories about emerging companies and technologies.",
+            "logoUrl": "/logos/startupbeat.jpg",
+            "previewUrl": "/preview/startupbeat.jpg",
+            "domainAuthority": 47,
+            "productType": "paid",
+            "link": "https://startupbeat.com",
+            "categories": [
+                "Startup News",
+                "Analysis",
+                "Trends",
+                "Global Ecosystem",
+                "Technology"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "AI Infinity",
+            "description": "AI Tools Directory.",
+            "logoUrl": "/logos/aiinfinity.jpg",
+            "previewUrl": "/preview/aiinfinity.jpg",
+            "domainAuthority": 91,
+            "productType": "free",
+            "link": "https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231",
+            "categories": [
+                "AI",
+                "Technology",
+                "Solutions",
+                "Resources",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Pitchwall",
+            "description": "A platform that provides startups with the opportunity to pitch their ideas to a community of investors, entrepreneurs, and enthusiasts, helping them gain visibility and funding.",
+            "logoUrl": "/logos/pitchwall.jpg",
+            "previewUrl": "/preview/pitchwall.jpg",
+            "domainAuthority": 62,
+            "productType": "free",
+            "link": "https://pitchwall.co/",
+            "categories": [
+                "Pitching",
+                "Startups",
+                "Investment",
+                "Community",
+                "Visibility"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Brainik",
+            "description": "AI tools directory.",
+            "logoUrl": "/logos/brainik.jpg",
+            "previewUrl": "/preview/brainik.jpg",
+            "domainAuthority": 6,
+            "productType": "free",
+            "link": "https://brainik.com/",
+            "categories": [
+                "Productivity",
+                "Technology",
+                "Resources"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Saasaitools",
+            "description": "AI tools directory.",
+            "logoUrl": "/logos/saasaitools.jpg",
+            "previewUrl": "/preview/saasaitools.jpg",
+            "domainAuthority": 56,
+            "productType": "free",
+            "link": "https://saasaitools.com/",
+            "categories": [
+                "SaaS",
+                "AI",
+                "Business Tools",
+                "Project Management",
+                "Analytics",
+                "Customer Relations"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Uplabs",
+            "description": " UpLabs is the place to find high-quality design resources for designers, creative agencies and developers.",
+            "logoUrl": "/logos/uplabs.jpg",
+            "previewUrl": "/preview/uplabs.jpg",
+            "domainAuthority": 59,
+            "productType": "free",
+            "link": "https://uplabs.com",
+            "categories": [
+                "Design",
+                "Development",
+                "Resources",
+                "Community",
+                "Marketplace"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Altern AI",
+            "description": "Trending AI Tools directory.",
+            "logoUrl": "/logos/altern.jpg",
+            "previewUrl": "/preview/altern.jpg",
+            "domainAuthority": 25,
+            "productType": "free",
+            "link": "https://altern.ai/",
+            "categories": [
+                "AI",
+                "Software",
+                "Tools",
+                "Alternatives",
+                "Resources"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "AI Tools Marketer",
+            "description": "AI tools hub.",
+            "logoUrl": "/logos/aitoolsmarketer.jpg",
+            "previewUrl": "/preview/aitoolsmarketer.jpg",
+            "domainAuthority": 1,
+            "productType": "free",
+            "link": "https://aitoolsmarketer.com/",
+            "categories": [
+                "AI",
+                "Marketing",
+                "Tools",
+                "Resources",
+                "Insights"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Startupranking",
+            "description": "A platform providing rankings, insights, and analytics for startups worldwide, helping investors, entrepreneurs, and others discover and evaluate startup potential and performance.",
+            "logoUrl": "/logos/startupranking.jpg",
+            "previewUrl": "/preview/startupranking.jpg",
+            "domainAuthority": 66,
+            "productType": "free",
+            "link": "https://startupranking.com/",
+            "categories": [
+                "Startups",
+                "Rankings",
+                "Analytics",
+                "Insights",
+                "Global"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "G2crowd",
+            "description": "A peer-to-peer review site that aggregates user reviews for business software and services, aimed at helping businesses make better purchasing decisions based on feedback.",
+            "logoUrl": "/logos/g2.jpg",
+            "previewUrl": "/preview/g2.jpg",
+            "domainAuthority": 77,
+            "productType": "paid",
+            "link": "https://g2.com",
+            "categories": [
+                "Reviews",
+                "Software",
+                "Business",
+                "Feedback",
+                "Purchasing Decisions"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "EU startups",
+            "description": "A media and research platform focusing on the startup ecosystem within the European Union, providing news, insights, and events related to EU-based startups.",
+            "logoUrl": "/logos/eu-startups.jpg",
+            "previewUrl": "/preview/eu-startups.jpg",
+            "domainAuthority": 57,
+            "productType": "free",
+            "link": "https://eu-startups.com",
+            "categories": [
+                "Startups",
+                "Europe",
+                "News",
+                "Insights",
+                "Events"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Spectacle",
+            "description": " Video inspiration for every brand.",
+            "logoUrl": "/logos/spectacle.jpg",
+            "previewUrl": "/preview/spectacle.jpg",
+            "domainAuthority": 30,
+            "productType": "free",
+            "link": "https://spectacle.is",
+            "categories": [
+                "Presentations",
+                "Multimedia",
+                "Sharing",
+                "Professional",
+                "Video"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Sideprojectors",
+            "description": "A marketplace and community for side projects, where creators can showcase, sell, or find collaborators for their side projects across various industries.",
+            "logoUrl": "/logos/sideprojectors.jpg",
+            "previewUrl": "/preview/sideprojectors.jpg",
+            "domainAuthority": 67,
+            "productType": "free",
+            "link": "https://www.sideprojectors.com/",
+            "categories": [
+                "Marketplace",
+                "Projects",
+                "Collaboration",
+                "Community",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Getworm",
+            "description": "A unique platform where startups can get early adopters to try their products and provide feedback, helping startups validate and improve their offerings.",
+            "logoUrl": "/logos/getworm.jpg",
+            "previewUrl": "/preview/getworm.jpg",
+            "domainAuthority": 31,
+            "productType": "free",
+            "link": "https://getworm.com",
+            "categories": [
+                "Startups",
+                "Feedback",
+                "Early Adopters",
+                "Product Validation",
+                "Improvement"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "NoCodeFounders",
+            "description": "A platform uniting founders and creators who build digital products and startups without coding, providing resources, networking opportunities, and insights into no-code development.",
+            "logoUrl": "/logos/nocodefounders.jpg",
+            "previewUrl": "/preview/nocodefounders.jpg",
+            "domainAuthority": 33,
+            "productType": "free",
+            "link": "https://nocodefounders.com",
+            "categories": [
+                "No-Code Development",
+                "Startups",
+                "Networking",
+                "Resources",
+                "Community"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Ai tools directory.",
+            "description": "An extensive directory dedicated to artificial intelligence tools and software, aimed at helping users find AI solutions for various applications, from business to personal use.",
+            "logoUrl": "/logos/aitoolsdirectory.jpg",
+            "previewUrl": "/preview/aitoolsdirectory.jpg",
+            "domainAuthority": 35,
+            "productType": "free",
+            "link": "https://aitoolsdirectory.com/",
+            "categories": [
+                "AI",
+                "Directory",
+                "Tools",
+                "Software",
+                "Resources"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Ctrlalt",
+            "description": "A digital platform that focuses on offering alternative software and tools for creators, developers, and businesses, emphasizing open-source and customizable solutions.",
+            "logoUrl": "/logos/ctrlalt.jpg",
+            "previewUrl": "/preview/ctrlalt.jpg",
+            "domainAuthority": 23,
+            "productType": "free",
+            "link": "https://ctrlalt.cc/",
+            "categories": [
+                "Software",
+                "Alternatives",
+                "Open-Source",
+                "Development",
+                "Business Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Landbook",
+            "description": "A curated gallery of high-quality web and landing page designs, serving as inspiration for designers, marketers, and product managers looking to create impactful online presences.",
+            "logoUrl": "/logos/land-book.jpg",
+            "previewUrl": "/preview/land-book.jpg",
+            "domainAuthority": 42,
+            "productType": "free",
+            "link": "https://land-book.com",
+            "categories": [
+                "Design",
+                "Inspiration",
+                "Web Development",
+                "Marketing",
+                "Product Management"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Capterra",
+            "description": "A comprehensive review and rating platform for business software and services, facilitating informed decisions through user feedback and detailed software comparisons.",
+            "logoUrl": "/logos/capterra.jpg",
+            "previewUrl": "/preview/capterra.jpg",
+            "domainAuthority": 90,
+            "productType": "free",
+            "link": "https://www.capterra.com/",
+            "categories": [
+                "Software Reviews",
+                "Business Services",
+                "Decision Making",
+                "User Feedback",
+                "Comparisons"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Innoverai",
+            "description": "Ai tools directory.",
+            "logoUrl": "/logos/innoverai.jpg",
+            "previewUrl": "/preview/innoverai.jpg",
+            "domainAuthority": 5,
+            "productType": "free",
+            "link": "https://innoverai.com/",
+            "categories": [
+                "AI",
+                "Innovation",
+                "News",
+                "Research",
+                "Business Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "There's An AI For That",
+            "description": "A resourceful platform highlighting the versatility and applications of AI across different sectors, providing users with AI solutions for their specific needs and challenges.",
+            "logoUrl": "/logos/theresanaiforthat.jpg",
+            "previewUrl": "/preview/theresanaiforthat.jpg",
+            "domainAuthority": 69,
+            "productType": "free",
+            "link": "https://theresanaiforthat.com/",
+            "categories": [
+                "AI",
+                "Solutions",
+                "Applications",
+                "Resources",
+                "Sector-specific AI"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Freework",
+            "description": "AI tools hub.",
+            "logoUrl": "/logos/freework.jpg",
+            "previewUrl": "/preview/freework.jpg",
+            "domainAuthority": 26,
+            "productType": "both",
+            "link": "https://freework.ai/",
+            "categories": [
+                "AI",
+                "Entertainment",
+                "AI Technologies",
+                "AI Solutions"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Similartool",
+            "description": "AI tool repository.",
+            "logoUrl": "/logos/similartool.jpg",
+            "previewUrl": "/preview/similartool.jpg",
+            "domainAuthority": 21,
+            "productType": "both",
+            "link": "https://similartool.ai/",
+            "categories": [
+                "Comparison Tools",
+                "AI",
+                "AI Trends",
+                "Alternative Solutions"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Aitoptools",
+            "description": "A platform that aggregates top AI tools and software for various industries, providing reviews, ratings, and recommendations to help users select the right AI solutions.",
+            "logoUrl": "/logos/aitoptools.jpg",
+            "previewUrl": "/preview/aitoptools.jpg",
+            "domainAuthority": 44,
+            "productType": "both",
+            "link": "https://aitoptools.com/",
+            "categories": [
+                "AI",
+                "Tools",
+                "Software"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "My Startup Tool",
+            "description": "Startup listing directory",
+            "logoUrl": "/logos/mystartuptool.jpg",
+            "previewUrl": "/preview/mystartuptool.jpg",
+            "domainAuthority": 14,
+            "productType": "paid",
+            "link": "https://mystartuptool.com",
+            "categories": [
+                "Startups",
+                "Resources",
+                "Entrepreneurship"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Toolify",
+            "description": "AI tool repository.",
+            "logoUrl": "/logos/toolify.jpg",
+            "previewUrl": "/preview/toolify.jpg",
+            "domainAuthority": 57,
+            "productType": "paid",
+            "link": "https://www.toolify.ai/",
+            "categories": [
+                "Tools",
+                "Marketing",
+                "Entrepreneurship"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Insider",
+            "description": "A global news publication that offers insights and analysis on technology, business, finance, and more, helping readers stay informed on the latest trends and developments.",
+            "logoUrl": "/logos/insidr.jpg",
+            "previewUrl": "/preview/insidr.jpg",
+            "domainAuthority": 41,
+            "productType": "free",
+            "link": "https://www.insidr.ai/",
+            "categories": [
+                "News",
+                "Technology",
+                "Business Analysis",
+                "AI Tools",
+                "AI Trends"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Saasgenius",
+            "description": "A software discovery platform that offers a comprehensive library of SaaS solutions for businesses, along with reviews, comparisons, and expert recommendations.",
+            "logoUrl": "/logos/saasgenius.jpg",
+            "previewUrl": "/preview/saasgenius.jpg",
+            "domainAuthority": 41,
+            "productType": "paid",
+            "link": "https://saasgenius.com",
+            "categories": [
+                "SaaS Discovery",
+                "Comparisons",
+                "Business Solutions"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "10 Words",
+            "description": "A unique discovery platform that showcases startups and new products emphasizing clarity and simplicity in presentation.",
+            "logoUrl": "/logos/10words.jpg",
+            "previewUrl": "/preview/10words.jpg",
+            "domainAuthority": 13,
+            "productType": "free",
+            "link": "https://10words.io",
+            "categories": [
+                "Startup Discovery",
+                "Product Showcase",
+                "Simplicity",
+                "Marketing"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Startup lister",
+            "description": "A service designed to help startups gain exposure by listing them.",
+            "logoUrl": "/logos/startuplister.jpg",
+            "previewUrl": "/preview/startuplister.jpg",
+            "domainAuthority": 39,
+            "productType": "free",
+            "link": "https://startuplister.com",
+            "categories": [
+                "Startup Exposure",
+                "Listing Service",
+                "Visibility",
+                "Marketing"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "PoweredbyAI",
+            "description": "A platform focusing on AI-powered solutions and tools for businesses, providing resources, reviews, and guides to help integrate AI into various business processes.",
+            "logoUrl": "/logos/poweredbyai.jpg",
+            "previewUrl": "/preview/poweredbyai.jpg",
+            "domainAuthority": 2,
+            "productType": "free",
+            "link": "https://poweredbyai.app/",
+            "categories": [
+                "AI Solutions",
+                "Business Tools",
+                "Resources",
+                "Integration Guides"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Alternative To",
+            "description": "A user-driven website that helps find alternatives to software, apps, and services, based on community recommendations and reviews.",
+            "logoUrl": "/logos/alternativeto.jpg",
+            "previewUrl": "/preview/alternativeto.jpg",
+            "domainAuthority": 73,
+            "productType": "free",
+            "link": "https://alternativeto.net",
+            "categories": [
+                "Software Alternatives",
+                "Community Recommendations",
+                "App Discovery",
+                "User Reviews"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Saas Hub",
+            "description": "A directory and review site for Software as a Service (SaaS) products, aiming to help users find, compare, and choose the best SaaS solutions for their needs.",
+            "logoUrl": "/logos/saashub.jpg",
+            "previewUrl": "/preview/saashub.jpg",
+            "domainAuthority": 57,
+            "productType": "free",
+            "link": "https://saashub.com",
+            "categories": [
+                "SaaS Reviews",
+                "Product Discovery",
+                "Software Comparison",
+                "Business Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Waildworld",
+            "description": "Ai tools directory.",
+            "logoUrl": "/logos/waildworld.jpg",
+            "previewUrl": "/preview/waildworld.jpg",
+            "domainAuthority": 10,
+            "productType": "free",
+            "link": "https://waildworld.com/",
+            "categories": [
+                "AI Resources",
+                "AI Technologies",
+                "AI Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Webapprater",
+            "description": "A platform offering reviews and ratings for web applications, mobile apps, and services, helping users make informed decisions about digital tools and platforms.",
+            "logoUrl": "/logos/webapprater.jpg",
+            "previewUrl": "/preview/webapprater.jpg",
+            "domainAuthority": 30,
+            "productType": "paid",
+            "link": "https://webapprater.com",
+            "categories": [
+                "App Reviews",
+                "Web Services",
+                "Mobile Apps",
+                "User Ratings"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Toolsfine",
+            "description": "Tools hub.",
+            "logoUrl": "/logos/toolsfine.jpg",
+            "previewUrl": "/preview/toolsfine.jpg",
+            "domainAuthority": 46,
+            "productType": "free",
+            "link": "https://toolsfine.com/",
+            "categories": [
+                "Software Discovery",
+                "Technology",
+                "AI Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Growth Junkie",
+            "description": "Directory of Digital Resources for Startups & Established Companies.",
+            "logoUrl": "/logos/growthjunkie.jpg",
+            "previewUrl": "/preview/growthjunkie.jpg",
+            "domainAuthority": 15,
+            "productType": "free",
+            "link": "https://growthjunkie.com",
+            "categories": [
+                "Digital Marketing",
+                "Growth Hacking",
+                "Startup Resources",
+                "Business Strategy"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "NoCodeDevs",
+            "description": "Tools hub.",
+            "logoUrl": "/logos/nocodedevs.jpg",
+            "previewUrl": "/preview/nocodedevs.jpg",
+            "domainAuthority": 22,
+            "productType": "both",
+            "link": "https://nocodedevs.com",
+            "categories": [
+                "No-Code Development",
+                "Community",
+                "Software Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Trustradius",
+            "description": "A trusted site for software reviews, offering detailed user feedback and comparisons for business technology to aid in purchasing decisions.",
+            "logoUrl": "/logos/trustradius.jpg",
+            "previewUrl": "/preview/trustradius.jpg",
+            "domainAuthority": 83,
+            "productType": "free",
+            "link": "https://www.trustradius.com/",
+            "categories": [
+                "Software Reviews",
+                "User Feedback",
+                "Technology Comparison",
+                "Business Solutions"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "AwesomeIndie",
+            "description": "Tools hub.",
+            "logoUrl": "/logos/awesomeindie.jpg",
+            "previewUrl": "/preview/awesomeindie.jpg",
+            "domainAuthority": 16,
+            "productType": "free",
+            "link": "https://awesomeindie.com",
+            "categories": [
+                "Indie Development",
+                "Creative Community",
+                "Tools & Resources",
+                "Artist Support"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Apps400",
+            "description": "A review site dedicated to mobile and web applications, providing detailed critiques, user feedback, and ratings to help in app discovery.",
+            "logoUrl": "/logos/apps400.jpg",
+            "previewUrl": "/preview/apps400.jpg",
+            "domainAuthority": 51,
+            "productType": "paid",
+            "link": "https://apps400.com",
+            "categories": [
+                "App Reviews",
+                "Mobile Applications",
+                "Web Apps",
+                "User Ratings"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "AItoolnet",
+            "description": "AI Tools Directory.",
+            "logoUrl": "/logos/aitoolnet.jpg",
+            "previewUrl": "/preview/aitoolnet.jpg",
+            "domainAuthority": 31,
+            "productType": "free",
+            "link": "https://www.aitoolnet.com/",
+            "categories": [
+                "AI Tools",
+                "Technology Insights",
+                "Reviews",
+                "AI Resources"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Appsthunder",
+            "description": "A website for app reviews and recommendations, featuring a wide range of mobile applications across different categories and platforms.",
+            "logoUrl": "/logos/appsthunder.jpg",
+            "previewUrl": "/preview/appsthunder.jpg",
+            "domainAuthority": 13,
+            "productType": "both",
+            "link": "https://appsthunder.com",
+            "categories": [
+                "App Reviews",
+                "Mobile Applications",
+                "Recommendations",
+                "Tech Insights"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Aitoolsguru",
+            "description": "AI tools hub.",
+            "logoUrl": "/logos/aitoolguru.jpg",
+            "previewUrl": "/preview/aitoolguru.jpg",
+            "domainAuthority": 17,
+            "productType": "free",
+            "link": "https://www.aitoolguru.com/",
+            "categories": [
+                "AI Tools",
+                "Tutorials",
+                "Technology Reviews",
+                "Guidance"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Tooldirectory",
+            "description": "A comprehensive directory of tools for different uses, from software development to marketing, aimed at professionals looking for the right resources.",
+            "logoUrl": "/logos/tooldirectory.jpg",
+            "previewUrl": "/preview/tooldirectory.jpg",
+            "domainAuthority": 50,
+            "productType": "paid",
+            "link": "https://tooldirectory.ai/",
+            "categories": [
+                "Tool Directory",
+                "Software Development",
+                "Marketing Tools",
+                "Resource Discovery"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Indie Hackers",
+            "description": "A community platform for independent creators and entrepreneurs to share stories, strategies, and challenges, fostering collaboration and learning.",
+            "logoUrl": "/logos/indiehackers.jpg",
+            "previewUrl": "/preview/indiehackers.jpg",
+            "domainAuthority": 80,
+            "productType": "free",
+            "link": "https://indiehackers.com/",
+            "categories": [
+                "Entrepreneurship",
+                "Community",
+                "Startup Stories",
+                "Business Strategy"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Monkeyaitools",
+            "description": "AI tools directory.",
+            "logoUrl": "/logos/monkeyaitools.jpg",
+            "previewUrl": "/preview/monkeyaitools.jpg",
+            "domainAuthority": 19,
+            "productType": "paid",
+            "link": "https://www.monkeyaitools.com/",
+            "categories": [
+                "AI Tools",
+                "Resource Collection",
+                "Technology Applications",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Toolhunting",
+            "description": "Ai tools directory.",
+            "logoUrl": "/logos/toolhunting.jpg",
+            "previewUrl": "/preview/toolhunting.jpg",
+            "domainAuthority": 0,
+            "productType": "free",
+            "link": "https://www.toolhunting.com/",
+            "categories": [
+                "Productivity Tools",
+                "Software Reviews",
+                "Tech Innovations",
+                "AI Tools",
+                "AI Technologies"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Owwly",
+            "description": "A showcase of digital products, focusing on new and innovative apps, websites, and tech creations, often highlighting the work of independent makers.",
+            "logoUrl": "/logos/owwly.jpg",
+            "previewUrl": "/preview/owwly.jpg",
+            "domainAuthority": 14,
+            "productType": "paid",
+            "link": "https://owwly.com",
+            "categories": [
+                "Tech Showcase",
+                "Digital Products",
+                "Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Feedmystartup",
+            "description": "A curated feed of resources, tools, and advice specifically tailored for startups, aimed at nurturing growth and solving startup challenges.",
+            "logoUrl": "/logos/feedmystartup.jpg",
+            "previewUrl": "/preview/feedmystartup.jpg",
+            "domainAuthority": 18,
+            "productType": "free",
+            "link": "https://feedmystartup.com",
+            "categories": [
+                "Startup Resources",
+                "Growth Hacking",
+                "Entrepreneurship"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Ai Search",
+            "description": "AI tools directory.",
+            "logoUrl": "/logos/ai-search.jpg",
+            "previewUrl": "/preview/ai-search.jpg",
+            "domainAuthority": 5,
+            "productType": "both",
+            "link": "https://ai-search.io/",
+            "categories": [
+                "AI Technology",
+                "Search Tools",
+                "Innovation",
+                "AI Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "The Startup Pitch",
+            "description": "A platform that allows startups to pitch their ideas and get feedback from a community of investors, experts, and fellow entrepreneurs.",
+            "logoUrl": "/logos/thestartuppitch.jpg",
+            "previewUrl": "/preview/thestartuppitch.jpg",
+            "domainAuthority": 47,
+            "productType": "both",
+            "link": "https://thestartuppitch.com",
+            "categories": [
+                "Startup Pitches",
+                "Community Feedback",
+                "Entrepreneurship"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Goodfirms",
+            "description": "A B2B research and review platform for IT service and software companies, offering rankings and reviews to help businesses select the right technology partners.",
+            "logoUrl": "/logos/goodfirms.jpg",
+            "previewUrl": "/preview/goodfirms.jpg",
+            "domainAuthority": 85,
+            "productType": "free",
+            "link": "https://www.goodfirms.co/",
+            "categories": [
+                "IT Services Reviews",
+                "Software Recommendations",
+                "B2B Research"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Web Design Inspiration",
+            "description": "A gallery of inspiring web design ideas and trends, providing creative inspiration for web designers and developers.",
+            "logoUrl": "/logos/webdesign-inspiration.jpg",
+            "previewUrl": "/preview/webdesign-inspiration.jpg",
+            "domainAuthority": 49,
+            "productType": "free",
+            "link": "https://webdesign-inspiration.com",
+            "categories": [
+                "Web Design Trends",
+                "Creative Inspiration",
+                "Design Gallery",
+                "Design"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Techreviewer",
+            "description": "A platform that provides reviews and rankings of the top technology companies and software solutions, aiming to help businesses find reliable tech partners.",
+            "logoUrl": "/logos/techreviewer.jpg",
+            "previewUrl": "/preview/techreviewer.jpg",
+            "domainAuthority": 73,
+            "productType": "free",
+            "link": "https://techreviewer.co/",
+            "categories": [
+                "Technology Reviews",
+                "Company Rankings",
+                "Business Solutions"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Dang",
+            "description": "Ai tools directory.",
+            "logoUrl": "/logos/dang.jpg",
+            "previewUrl": "/preview/dang.jpg",
+            "domainAuthority": 49,
+            "productType": "free",
+            "link": "https://dang.ai/",
+            "categories": [
+                "Innovation Hub",
+                "Tech Trends",
+                "Creative Resources",
+                "AI Technologies",
+                "AI Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Crazy about startups",
+            "description": "A resource-rich platform for those passionate about the startup world, offering insights, stories, and tips for budding and established entrepreneurs alike.",
+            "logoUrl": "/logos/crazyaboutstartups.jpg",
+            "previewUrl": "/preview/crazyaboutstartups.jpg",
+            "domainAuthority": 39,
+            "productType": "free",
+            "link": "https://crazyaboutstartups.com",
+            "categories": [
+                "Startup Insights",
+                "Entrepreneurial Advice",
+                "Success Stories"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Aitoolportal",
+            "description": "Ai tools directory.",
+            "logoUrl": "/logos/aitoolportal.jpg",
+            "previewUrl": "/preview/aitoolportal.jpg",
+            "domainAuthority": 1,
+            "productType": "free",
+            "link": "https://aitoolportal.com/",
+            "categories": [
+                "AI Tools",
+                "Technology Reviews",
+                "AI Education",
+                "AI Technologies"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Killerstartups",
+            "description": "A website reviewing internet startups, new products, and websites, identifying potentially game-changing solutions in the tech and business spaces.",
+            "logoUrl": "/logos/killerstartups.jpg",
+            "previewUrl": "/preview/killerstartups.jpg",
+            "domainAuthority": 60,
+            "productType": "free",
+            "link": "https://killerstartups.com",
+            "categories": [
+                "Startup Reviews",
+                "Product Discovery",
+                "Tech Innovation"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Future Tools",
+            "description": "AI tools directory.",
+            "logoUrl": "/logos/futuretools.jpg",
+            "previewUrl": "/preview/futuretools.jpg",
+            "domainAuthority": 50,
+            "productType": "free",
+            "link": "https://www.futuretools.io/",
+            "categories": [
+                "Emerging Technologies",
+                "Future of Work",
+                "Innovative Tools"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Webwiki",
+            "description": "A website directory and review platform where users can find and rate various websites, helping others discover reliable online resources across numerous categories.",
+            "logoUrl": "/logos/webwiki.jpg",
+            "previewUrl": "/preview/webwiki.jpg",
+            "domainAuthority": 50,
+            "productType": "free",
+            "link": "https://webwiki.com",
+            "categories": [
+                "Website Directory",
+                "User Reviews",
+                "Online Discovery"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "All Things Ai",
+            "description": "A comprehensive resource dedicated to everything related to artificial intelligence, from the latest news and trends to deep dives into AI technologies and applications.",
+            "logoUrl": "/logos/allthingsai.jpg",
+            "previewUrl": "/preview/allthingsai.jpg",
+            "domainAuthority": 34,
+            "productType": "free",
+            "link": "https://allthingsai.com/",
+            "categories": [
+                "AI News",
+                "Technology Trends",
+                "Educational Resources"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Appsandwesites",
+            "description": "AI tools directory.",
+            "logoUrl": "/logos/appsandwebsites.jpg",
+            "previewUrl": "/preview/appsandwebsites.jpg",
+            "domainAuthority": 20,
+            "productType": "free",
+            "link": "https://appsandwebsites.com/",
+            "categories": [
+                "App Reviews",
+                "Website Recommendations",
+                "Digital Tools",
+                "AI Tools",
+                "AI Technologies"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Gate2ai",
+            "description": "AI tool repository.",
+            "logoUrl": "/logos/gate2ai.jpg",
+            "previewUrl": "/preview/gate2ai.jpg",
+            "domainAuthority": 27,
+            "productType": "free",
+            "link": "https://www.gate2ai.com/",
+            "categories": [
+                "AI Resources",
+                "Technology Portal",
+                "Community Engagement",
+                "AI Tools",
+                "AI Technologies"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "Foundr AI",
+            "description": "AI tools directory.",
+            "logoUrl": "/logos/foundr.jpg",
+            "previewUrl": "/preview/foundr.jpg",
+            "domainAuthority": 39,
+            "productType": "free",
+            "link": "https://foundr.ai/",
+            "categories": [
+                "AI Entrepreneurship",
+                "Educational Resources",
+                "Business Innovation",
+                "AI Tools",
+                "AI Technologies"
+            ],
+            "addedBy": "gpiechnik2"
+        },
+        {
+            "name": "TopAI",
+            "description": "A platform dedicated to showcasing the top artificial intelligence tools, technologies, and startups, aiming to connect users with cutting-edge AI solutions.",
+            "logoUrl": "/logos/topai.jpg",
+            "previewUrl": "/preview/topai.jpg",
+            "domainAuthority": 54,
+            "productType": "paid",
+            "link": "https://topai.tools/",
+            "categories": [
+                "AI Technologies",
+                "Startup Showcase",
+                "Technology Discovery"
+            ],
+            "addedBy": "gpiechnik2"
+        }
+    ]
+}

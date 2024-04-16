@@ -15,6 +15,9 @@ export const metadata: Metadata = {
   description: "A curated open-source list of places where you can promote your products, both paid and free.",
 };
 
+const umamiId = `${process.env.UMAMI_TRACKING_ID}`
+
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -22,7 +25,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning >
-      <head />
+      <head>
+        <script defer src="https://umami-kappa-six.vercel.app/script.js" data-website-id="165f182c-2588-42d1-838b-e5b3bdc9a5e6"></script>
+      </head>
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased",
@@ -35,7 +40,7 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-            {children}
+          {children}
         </ThemeProvider>
         <Toaster />
       </body>

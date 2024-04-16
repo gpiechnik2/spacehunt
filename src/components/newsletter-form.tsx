@@ -29,9 +29,10 @@ const FormSchema = z.object({
 
 interface NewsletterFormProps {
   setIsSubscribedProp: (value: boolean) => void;
+  actionButtonText: string
 }
 
-export function NewsletterForm({ setIsSubscribedProp }: NewsletterFormProps) {
+export function NewsletterForm({ setIsSubscribedProp, actionButtonText }: NewsletterFormProps) {
   const form = useForm<z.infer<typeof FormSchema>>({
     resolver: zodResolver(FormSchema),
     defaultValues: {
@@ -53,7 +54,7 @@ export function NewsletterForm({ setIsSubscribedProp }: NewsletterFormProps) {
 
       if (!response.ok) throw new Error('Problem with subscription')
 
-      toast.success("You've been added to the waitlist! You'll receive an email notification only when we launch! Thanks!")
+      toast.success("You have been subscribed to the newsletter! Thanks!")
       localStorage.setItem('isSubscribed', 'true')
       setIsSubscribedProp(true)
     } catch (error) {
@@ -86,7 +87,7 @@ export function NewsletterForm({ setIsSubscribedProp }: NewsletterFormProps) {
                     &nbsp;&#8203;named Startups Journey.
                   </p>
                   <p className="text-sm pt-2">
-                    In the newsletter, I describe my adventure with creating startups and ways of reaching people.
+                    The newsletter includes protips, insights, and news about startup creation.
                   </p>
                   <div className="flex items-center pt-2">
                     <CalendarIcon className="mr-2 h-4 w-4 opacity-70" />{" "}
@@ -109,7 +110,7 @@ export function NewsletterForm({ setIsSubscribedProp }: NewsletterFormProps) {
                 <FormMessage />
               </FormItem>
             )} />
-          <Button type="submit">Sign Up for the Waitlist</Button>
+          <Button type="submit">{actionButtonText}</Button>
         </form>
       </Form>
     </>
